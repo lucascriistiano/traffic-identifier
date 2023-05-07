@@ -1654,6 +1654,11 @@ O modelo treinado possui performance de **80.15%** (precision).
 ![Recall-Confidence Curve](./assets/recall_confidence_curve.png)
 
 
+## Notebook
+
+Notebook de Treinamento: [Jupyter Notebook](./notebook/Traffic_Identifier.ipynb)
+
+
 ## Roboflow
 
 <a href="https://universe.roboflow.com/cesarschool-m5f9g/traffic-identifier">
