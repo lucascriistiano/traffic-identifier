@@ -1654,6 +1654,11 @@ O modelo treinado possui performance de **80.15%** (precision).
 ![Recall-Confidence Curve](./assets/recall_confidence_curve.png)
 
 
+## Wandb.ai
+
+Relatório de Treinamento: [Execução Wandb.ai](https://wandb.ai/lucascriistiano/YOLOv5/runs/b57jr6l2)
+
+
 ## Notebook
 
 Notebook de Treinamento: [Jupyter Notebook](./notebook/Traffic_Identifier.ipynb)
