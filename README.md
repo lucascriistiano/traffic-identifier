@@ -1676,3 +1676,5 @@ Dataset Roboflow: [Dataset traffic-identifier](https://universe.roboflow.com/ces
 ## HuggingFace
 
 Projeto no HuggingFace: [Space traffic-identifier](https://huggingface.co/spaces/lucascriistiano/traffic-identifier)
+
+![HuggingFace](./assets/huggingface.png)
