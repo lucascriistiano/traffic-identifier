@@ -18,12 +18,12 @@ Para realização do projeto foi realizada a coleta de um grande conjunto de dad
 
 ## Performance
 
-O modelo treinado possui performance de **80.1461111121072%** (precision).
+O modelo treinado possui performance de **80.15%** (precision).
 
 ### Output do bloco de treinamento  
 
 <details>
-    <summary>Click to expand!</summary>
+    <summary>Clique para expandir.</summary>
 
     ```text
     wandb: WARNING ⚠️ wandb is deprecated and will be removed in a future release. See supported integrations at https://github.com/ultralytics/yolov5#integrations.
